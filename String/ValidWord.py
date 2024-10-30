@@ -1,4 +1,3 @@
-# task_id : 3136
 # Time Complexity O(n)
 # Space Complexity O(1)
 
